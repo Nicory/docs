@@ -1,0 +1,17 @@
+.doc-description{
+  font-size: 24px;
+}
+
+
+blockquote{
+  font-style: italic;
+  color: var(--gray);
+  padding: 10px;
+  border-left-color: lightgray;
+  border-left-width: 5px;
+  border-left-style: solid;
+}
+
+blockquote > p{
+  margin: 0;
+}
