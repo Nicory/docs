@@ -1,22 +1,14 @@
-# rinoku-docs
+# RinokuDocs
 
-> Документация для бота Rinoku 
+Простое приложение на nuxtjs с использованием @nuxt/content для создания простой документации
 
-## Build Setup
+## Установка
 
 ```bash
-# install dependencies
+# запуск дев сервера
 $ npm install
-
-# serve with hot reload at localhost:3000
 $ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Помощь
+Мы принимаем пулл-реквесты в этот репозиторий! Увидели ошибку или недочет в документации? Создайте пулл-реквест и мы его рассмотрим!
