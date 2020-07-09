@@ -39,6 +39,6 @@ export default {
 <style scoped>
 .container{
   margin-top: 5rem;
-
+  margin-bottom: 5rem;
 }
 </style>
