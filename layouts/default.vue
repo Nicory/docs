@@ -2,7 +2,7 @@
   <div>
     <b-navbar toggleable="xs" type="light" variant="light" class="fixed-top">
       <div class="container">
-        <b-navbar-brand href="#">RinokuBot Docs</b-navbar-brand>
+        <b-navbar-brand href="#">NicoryBot Docs</b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
